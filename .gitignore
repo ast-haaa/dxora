@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables — NEVER commit real secrets
+.env
+
+# IDE / editor metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# pytest cache & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+
+.env
+.venv/
+__pycache__/
+*.pyc
